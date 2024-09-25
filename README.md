@@ -1,4 +1,4 @@
-# CPU Scheduling Algorithms Project
+# CPU Scheduling Algorithms 
 
 ## Project Overview
 This project simulates various CPU scheduling algorithms using the C programming language. CPU scheduling is an essential part of process management in an operating system, and these algorithms determine how processes are assigned to the CPU for execution.
